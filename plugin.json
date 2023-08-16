@@ -1,0 +1,11 @@
+{
+    "name"              :   "BDroppy",
+    "namespace"         :   "BDroppy",
+    "type"              :   "theme",
+    "version"           :   "1.0",
+    "pluginIcon"        :   "icon_plugin_xs.png",
+    "description"       :   "test plugin",
+    "author"            :   "Yagnesh Chavda",
+    "authorIcon"        :   "icon_author_xs.png",
+    "serviceProvider"   :   "BDroppy\\Providers\\BDroppyServiceProvider"
+}
